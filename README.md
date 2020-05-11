@@ -13,8 +13,8 @@ __*Lista demarcada*__
 * item 1
 * item 2
    * subitem 1
-   *subitem 2
-*item 3
+   * subitem 2
+* item 3
 
 Lista de tarefas
  - [x] tarefa 1
@@ -24,4 +24,4 @@ Lista de tarefas
     - [ ] subtarefa 2
  - [ ] tarefa 4
  
- :vulcan_salute
+  :vulcan_salute:
