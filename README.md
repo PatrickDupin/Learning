@@ -9,14 +9,14 @@
    1. Teste 02 subnível
 0. Teste 04
 
-__*Lista demarcada*__
+*Lista demarcada*
 * item 1
 * item 2
    * subitem 1
    * subitem 2
 * item 3
 
-Lista de tarefas
+~~Lista de tarefas~~
  - [x] tarefa 1
  - [x] tarefa 2
  - [ ] tarefa 3
@@ -24,4 +24,12 @@ Lista de tarefas
     - [ ] subtarefa 2
  - [ ] tarefa 4
  
+ _Adicionar emojis_
   :vulcan_salute:
+
+ __Exibir Trecho de código__
+  Como utilizar a função `document.getElementById()`
+  
+ **Reply (responder)**
+  > Como utilizar a função `document.getElementById()`
+  
