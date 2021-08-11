@@ -32,4 +32,6 @@
   
  **Reply (responder)**
   > Como utilizar a função `document.getElementById()`
+
+https://pufler.dev/git-badges/
   
